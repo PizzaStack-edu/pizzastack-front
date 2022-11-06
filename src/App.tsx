@@ -1,6 +1,6 @@
-import { Header } from "./coomon/components/header/header.component";
+import { Header } from "./common/components/header/header.component";
 import { MenuList } from "./modules/menu/components/menu-list/menu-list.component";
-import { Footer } from "./coomon/components/footer/footer.component";
+import { Footer } from "./common/components/footer/footer.component";
 import pizzaMenu from "@app/mocks/pizza.json";
 
 export const App = () => {
